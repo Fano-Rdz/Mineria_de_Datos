@@ -1,1 +1,1 @@
-# M-neria_de_Datos
+Apuntes de la clase de minería de Datos
