@@ -68,7 +68,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "IPython Magic Commands"
+        "#####IPython Magic Commands"
       ],
       "metadata": {
         "id": "VAfk4X3Rds4_"
@@ -87,7 +87,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -113,7 +113,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -127,7 +127,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "IPython and Shell Commands"
+        "#####IPython and Shell Commands"
       ],
       "metadata": {
         "id": "3GvqD2h4e_wM"
@@ -145,7 +145,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -168,7 +168,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -191,7 +191,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -210,7 +210,7 @@
       "metadata": {
         "id": "0PiST3-Of0Rc"
       },
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -225,7 +225,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 11,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -244,7 +244,7 @@
       "metadata": {
         "id": "iPXRys3FgDSE"
       },
-      "execution_count": 12,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -259,7 +259,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -282,7 +282,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 14,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -304,7 +304,7 @@
       "metadata": {
         "id": "-k62a2oMgNnM"
       },
-      "execution_count": 15,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -319,7 +319,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -342,7 +342,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 18,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -365,7 +365,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -388,7 +388,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -411,7 +411,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 22,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -427,7 +427,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "Understanding Data Types in Python"
+        "##### Understanding Data Types in Python"
       ],
       "metadata": {
         "id": "0AS52FPzhrir"
@@ -442,7 +442,7 @@
       "metadata": {
         "id": "3sABqD1WjfRr"
       },
-      "execution_count": 23,
+      "execution_count": 2,
       "outputs": []
     },
     {
@@ -458,7 +458,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 24,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -484,7 +484,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -510,7 +510,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 27,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -536,7 +536,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 28,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -560,9 +560,10 @@
         "outputId": "9018f421-3a58-414e-d6af-ebd1e41ad3cd",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "collapsed": true
       },
-      "execution_count": 29,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -581,7 +582,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "Help on built-in function len in module builtins:"
+        "##### Help on built-in function len in module builtins:"
       ],
       "metadata": {
         "id": "xzDu3PcNYehK"
@@ -741,10 +742,687 @@
       "outputs": []
     },
     {
+      "cell_type": "markdown",
+      "source": [
+        "##### Creating Arrays from Scratch"
+      ],
+      "metadata": {
+        "id": "bPBn_jzVOAY1"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Crear un array de longitud 10 lleno de ceros\n",
+        "np.zeros(10, dtype=int)"
+      ],
+      "metadata": {
+        "id": "k246MKxbOLDN",
+        "outputId": "05236dd5-f19d-4f29-a5cd-46386cc60580",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 3
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Crear un array de 3x5 lleno de unos\n",
+        "np.ones((3, 5), dtype=float)"
+      ],
+      "metadata": {
+        "collapsed": true,
+        "id": "k8iugUVGOLpN",
+        "outputId": "485a1204-aa31-4d4d-ee41-70402d5da5e9",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([[1., 1., 1., 1., 1.],\n",
+              "       [1., 1., 1., 1., 1.],\n",
+              "       [1., 1., 1., 1., 1.]])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 4
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Crear array de 3x5 lleno de 3.14\n",
+        "np.full((3, 5), 3.14)"
+      ],
+      "metadata": {
+        "id": "TnuKlcK_Oeud",
+        "outputId": "acc0e70a-0dae-4263-cd34-6aee4a3e7b11",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([[3.14, 3.14, 3.14, 3.14, 3.14],\n",
+              "       [3.14, 3.14, 3.14, 3.14, 3.14],\n",
+              "       [3.14, 3.14, 3.14, 3.14, 3.14]])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 5
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Crear un array lleno con una línea secuencial\n",
+        "# comienza en 0, termina en 20 y brinca 2\n",
+        "# (similar a la función built-in range())\n",
+        "np.arange(0, 20, 2)"
+      ],
+      "metadata": {
+        "id": "XvzaxouHOjvF",
+        "outputId": "a295ac39-1d9e-49e7-e96e-3ee4507f7123",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 6,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([ 0,  2,  4,  6,  8, 10, 12, 14, 16, 18])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 6
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Crear un array entre 0 y 1 que contenga 5 elementos\n",
+        "#Los elementos estarán separados equitativamente\n",
+        "np.linspace(0, 1, 5)"
+      ],
+      "metadata": {
+        "id": "u5siOu8-O31u",
+        "outputId": "f3561564-b8b3-425f-f31e-4cfe5a4745f7",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 7,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([0.  , 0.25, 0.5 , 0.75, 1.  ])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 7
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Create a 3x3 array of uniformly distributed\n",
+        "# random values between 0 and 1\n",
+        "np.random.random((3, 3))"
+      ],
+      "metadata": {
+        "id": "OgTksQ6dPEd9",
+        "outputId": "499fc46d-22db-42e8-d4f8-f45cdb149300",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([[0.52896586, 0.48842822, 0.44840658],\n",
+              "       [0.02406373, 0.3579907 , 0.60023031],\n",
+              "       [0.92855209, 0.05650887, 0.98507871]])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 8
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Create a 3x3 array of normally distributed random values\n",
+        "# with mean 0 and standard deviation 1\n",
+        "np.random.normal(0, 1, (3, 3))"
+      ],
+      "metadata": {
+        "id": "1-H8pFiLPY9F",
+        "outputId": "f6aa7e80-d9c7-4b59-d225-6d8b268635e8",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 9,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([[-0.9825778 , -0.25059863, -1.25856084],\n",
+              "       [ 1.90539231, -1.5514811 , -0.80850555],\n",
+              "       [ 0.39991946,  0.9946289 , -0.03918419]])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 9
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Create a 3x3 array of random integers in the interval [0, 10)\n",
+        "np.random.randint(0, 10, (3, 3))"
+      ],
+      "metadata": {
+        "id": "eRg-EeFmPaX9",
+        "outputId": "86c706e7-edad-4d94-ffb1-3a92e680b067",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 10,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([[2, 1, 3],\n",
+              "       [1, 4, 8],\n",
+              "       [4, 3, 8]])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 10
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Create a 3x3 identity matrix\n",
+        "np.eye(3)"
+      ],
+      "metadata": {
+        "id": "hc-TbwyuPcel",
+        "outputId": "ffed8a87-851b-4f42-a82a-f92914692c7d",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 11,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([[1., 0., 0.],\n",
+              "       [0., 1., 0.],\n",
+              "       [0., 0., 1.]])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 11
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "##### The Basics of NumPy Arrays"
+      ],
+      "metadata": {
+        "id": "DCqIM6bWQL9l"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "np.random.seed(0)  # seed for reproducibility\n",
+        "\n",
+        "x1 = np.random.randint(10, size=6)  # One-dimensional array\n",
+        "x2 = np.random.randint(10, size=(3, 4))  # Two-dimensional array\n",
+        "x3 = np.random.randint(10, size=(3, 4, 5))  # Three-dimensional array"
+      ],
+      "metadata": {
+        "id": "CNH-60fpQTWt"
+      },
+      "execution_count": 12,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"x3 ndim: \", x3.ndim)\n",
+        "print(\"x3 shape:\", x3.shape)\n",
+        "print(\"x3 size: \", x3.size)"
+      ],
+      "metadata": {
+        "id": "5MHj1cBoQe9N",
+        "outputId": "e716c0d2-9179-479b-ab47-1c24e8d089f6",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 13,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "x3 ndim:  3\n",
+            "x3 shape: (3, 4, 5)\n",
+            "x3 size:  60\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"dtype:\", x3.dtype)"
+      ],
+      "metadata": {
+        "id": "4M6kBvQmQiW1",
+        "outputId": "17060193-da52-42b2-9c59-625742932158",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 14,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "dtype: int64\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"itemsize:\", x3.itemsize, \"bytes\")\n",
+        "print(\"nbytes:\", x3.nbytes, \"bytes\")"
+      ],
+      "metadata": {
+        "id": "FK5S699OQkjN",
+        "outputId": "5ee11f82-0450-4e8c-ee43-6d2d36b1d5a0",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 15,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "itemsize: 8 bytes\n",
+            "nbytes: 480 bytes\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "##### Array Indexing: Accessing Single Elements"
+      ],
+      "metadata": {
+        "id": "rzb9rvbgQ8vt"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x1"
+      ],
+      "metadata": {
+        "id": "6mxmB-_oQ-51",
+        "outputId": "60625d60-a09e-4242-eb86-81ddbbc24a2b",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 16,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([5, 0, 3, 3, 7, 9])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 16
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x1[0]"
+      ],
+      "metadata": {
+        "id": "a8ecuuo1RA0d",
+        "outputId": "62883b7a-fc81-493e-bea3-28b82fe6d642",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 17,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "np.int64(5)"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 17
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x1[-1]"
+      ],
+      "metadata": {
+        "id": "Xk9_mJqdRDnF",
+        "outputId": "12f89ef8-4609-4d23-8c6c-0703aa124ce5",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 18,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "np.int64(9)"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 18
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x2"
+      ],
+      "metadata": {
+        "id": "nWT7Zo5jRPQF",
+        "outputId": "a38c0943-c09b-45c2-ea37-224a8c567489",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 19,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "array([[3, 5, 2, 4],\n",
+              "       [7, 6, 8, 8],\n",
+              "       [1, 6, 7, 7]])"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 19
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x2[0, 0]"
+      ],
+      "metadata": {
+        "id": "zRUXr9fVRgq1",
+        "outputId": "5707081a-46dd-45a4-f7c2-ed91d248bf6e",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 20,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "np.int64(3)"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 20
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x2[-1, -1]"
+      ],
+      "metadata": {
+        "id": "1OFfKjb9Ri9F",
+        "outputId": "d17d9f15-5f46-4b6a-a4b5-f9d537fe106a",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 21,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "np.int64(7)"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 21
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "##### Análisis Estadístico Básico con NumPy"
+      ],
+      "metadata": {
+        "id": "-ErzjaBLTpcF"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Media\n",
+        "data = np.array([1, 2, 3, 4, 5])\n",
+        "media = np.mean(data)\n",
+        "print(media)"
+      ],
+      "metadata": {
+        "id": "TSncGYRRTvZF",
+        "outputId": "9d431f9a-2909-44d7-e289-74d8d482ed57",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 23,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "3.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Promedio ponderado\n",
+        "data = np.array([1, 2, 3, 4, 5])\n",
+        "weights = np.array([1, 2, 3, 4, 5])\n",
+        "promedio = np.average(data)\n",
+        "print(promedio)\n",
+        "promedio_ponderado = np.average(data, weights=weights)\n",
+        "print(promedio_ponderado)"
+      ],
+      "metadata": {
+        "id": "hvOdjsFNTzKN",
+        "outputId": "1a200ee7-9797-49ef-e1d4-abd5c70d40ff",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 27,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "3.0\n",
+            "3.6666666666666665\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Mediana\n",
+        "mediana = np.median(data)\n",
+        "print(mediana)"
+      ],
+      "metadata": {
+        "id": "1KE1qyT2T3SF",
+        "outputId": "e1fa0409-b8d2-4c94-caa3-c02addd5d3a2",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 29,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "3.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Generacion de datos aleatorios\n",
+        "muestra = np.random.normal(0, 1, 1000)\n",
+        "print(np.mean(muestra), np.std(muestra))"
+      ],
+      "metadata": {
+        "id": "kLuT6i3XUaWF",
+        "outputId": "54c48c5e-bd3c-431a-a39d-e147f3427e03",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 30,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "-0.006543456960417206 1.0059985778093545\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Correlación\n",
+        "corr = np.corrcoef([1,2,3], [1,5,7])\n",
+        "print(corr)"
+      ],
+      "metadata": {
+        "id": "MW4favoXVS9O",
+        "outputId": "d25a8565-9045-4c96-dc6a-aacba2033aee",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 32,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[1.         0.98198051]\n",
+            " [0.98198051 1.        ]]\n"
+          ]
+        }
+      ]
+    },
+    {
       "cell_type": "code",
       "source": [],
       "metadata": {
-        "id": "b-6df6kmadUK"
+        "id": "cpZXuf8rVdBe"
       },
       "execution_count": null,
       "outputs": []
